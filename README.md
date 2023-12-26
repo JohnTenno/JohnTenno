@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! 👋,
+I am a web application developer specializing in frontend using Angular. I have experience in developing projects with Electron based on Angular. For the backend, I have utilized Ruby on Rails and Nest.js for server-side development. Additionally, I am a computer science student
 
 <!--
 **JohnTenno/JohnTenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
