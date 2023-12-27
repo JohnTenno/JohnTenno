@@ -2,6 +2,7 @@
 <h3 align="center">I am a web application developer specializing in frontend using Angular. I have experience in developing projects with Electron based on Angular. For the backend, I have utilized Ruby on Rails and Nest.js for server-side development. Additionally, I am a computer science student</h3>
 
 <h3 align="left">Connect with me:</h3>
+<iframe src="https://discord.com/widget?id=932896053928275998&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <p align="left">
 </p>
 
