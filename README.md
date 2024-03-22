@@ -6,10 +6,10 @@
 <a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
 
 ```yaml
-I am a web application developer specializing in frontend development using Angular.
-I have experience in developing projects with Electron based on Angular. For backend
-development, I have utilized Ruby on Rails and Nest.js. Additionally, I am
-currently working at Leading Tech
+I am a web application developer specializing in frontend development
+using Angular. I have experience in developing projects with Electron
+based on Angular. For backend development, I have utilized Ruby on
+Rails and Nest.js. Additionally, I am currently working at Leading Tech
 and studying computer science.
 ```
 
