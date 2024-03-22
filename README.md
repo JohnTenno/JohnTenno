@@ -2,7 +2,7 @@
 
 ## **Experience**
 
-<a href=""><img align="left" width="130" src="./imgs/chibi-anime.gif"></a>
+<a href=""><img align="left" width="130" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
 <a href="https://github.com/JohnTenno"><img align="right" width="135" pading="10" src="./imgs/good-menhera.gif"/></a>
 
 ```yaml
@@ -16,8 +16,8 @@ I am proficient in Adobe Premiere and Illustrator.
 
 ## **Skills**
 
-<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
+<a href=""><img align="left" width="110" src="./imgs/chibi-anime.gif"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="125" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
 
 <p align="center">
   <a href="https://skillicons.dev">
