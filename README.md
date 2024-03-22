@@ -3,7 +3,7 @@
 ## **Experience**
 
 <a href=""><img align="left" width="130" src="./imgs/ram.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="135" pading="10" src="./imgs/rem.gif"/></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="130" pading="10" src="./imgs/rem.gif"/></a>
 
 ```yaml
 I have experience developing web applications using Angular with
@@ -17,7 +17,7 @@ I am proficient in Adobe Premiere and Illustrator.
 ## **Skills**
 
 <a href=""><img align="left" width="110" src="./imgs/chibi-anime.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="110" src="./imgs/good-menhera.gif" /></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/good-menhera.gif" /></a>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@ and studying computer science.
 ## **How did I start?**
 
 <a href=""><img align="left" width="100" src="./imgs/anime-meme.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="100" src="./imgs/sip-kanna-sip.gif"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="120" src="./imgs/sip-kanna-sip.gif"></a>
 
 ```yaml
 I don't know how it happened, but I started coding,
