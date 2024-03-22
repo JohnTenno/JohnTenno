@@ -41,7 +41,7 @@ and studying computer science.
 ## **How did I start?**
 
 <a href=""><img align="left" width="100" src="./imgs/anime-meme.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="120" src="./imgs/sip-kanna-sip.gif"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/sip-kanna-sip.gif"></a>
 
 ```yaml
 I don't know how it happened, but I started coding,
