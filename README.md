@@ -27,8 +27,11 @@ I am proficient in Adobe Premiere and Illustrator.
 
 ## **About me**
 
-<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/popcorn-drama.gif" /></a>
+[![Hirasawa Yui Peace](https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png)](https://example.com)
+<br>
+<img src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png" width="110">
+<br><br>
+[![Popcorn Drama](./imgs/popcorn-drama.gif)](https://github.com/JohnTenno)
 
 ```yaml
 I am a web application developer specializing in frontend development
