@@ -18,7 +18,7 @@ and Illustrator.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,npm,ts,mongodb,ruby,ai,ps,electron,git,js,docker,c,cpp,arduino,java,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,npm,ts,mongodb,ruby,ai,ps,electron,git,js,docker,c,cpp,arduino,java,vscode&perline=9" />
   </a>
 </p>
 
