@@ -2,8 +2,8 @@
 
 ## **Experience**
 
-<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
+<a href=""><img align="left" width="110" src="./imgs/chibi-anime.gif"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="135" src="./imgs/anime-gelaxy-salute.gif04298998c4006e5847cf9ef157665b43.gif" /></a>
 
 ```yaml
 I have experience developing web applications using Angular with
