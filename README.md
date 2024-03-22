@@ -28,7 +28,7 @@ I am proficient in Adobe Premiere and Illustrator.
 ## **About me**
 
 <a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="110" src="./imgs/popcorn-drama.gif" /></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/popcorn-drama.gif" /></a>
 
 ```yaml
 I am a web application developer specializing in frontend development
@@ -40,8 +40,8 @@ and studying computer science.
 
 ## **How did I start?**
 
-<a href=""><img align="right" width="135" src="./imgs/anime-meme.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="left" width="90" src="./imgs/sip-kanna-sip.gif"></a>
+<a href=""><img align="right" width="100" src="./imgs/anime-meme.gif"></a>
+<a href="https://github.com/JohnTenno"><img align="left" width="100" src="./imgs/sip-kanna-sip.gif"></a>
 
 ```yaml
 I don't know how it happened, but I started coding,
