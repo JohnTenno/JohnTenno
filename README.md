@@ -6,9 +6,10 @@
 <a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
 
 ```yaml
-I have experience developing web applications using Angular with NestJS
-and MongoDB, Prisma, Ruby on Rails. I am proficient in Adobe Premiere
-and Illustrator.
+I have experience developing web applications using Angular with NestJS and MongoDB, Prisma, Ruby on Rails.
+I have worked as a project leader, leading developers in the application and making decisions about its future.
+Additionally,
+I am proficient in Adobe Premiere and Illustrator.
 ```
 
 ## **Skills**
