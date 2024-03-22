@@ -1,5 +1,23 @@
 ![Preview](./imgs/banner.png)
 
+## **Experience**
+
+<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
+
+```yaml
+I have experience developing web applications using Angular with NestJS
+and MongoDB, Prisma, Ruby on Rails. I am proficient in Adobe Premiere
+and Illustrator.
+```
+
+## **Skills**
+
+<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
+<a href="https://github.com/JohnTenno"><img align="right" width="135" src="https://i.pinimg.com/originals/04/29/89/04298998c4006e5847cf9ef157665b43.gif" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## **About me**
 
 <a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
