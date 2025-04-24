@@ -1,57 +1,83 @@
-![Preview](./imgs/banner.png)
-
-## **Experience**
-
-<a href=""><img align="left" width="130" src="./imgs/ram.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="130" pading="10" src="./imgs/rem.gif"/></a>
-
-```yaml
-I have experience developing web applications using Angular with
-NestJS and MongoDB, Prisma, Ruby on Rails. I have worked as a
-project leader, making decisions about the application's functionality
-and requirements at Leading Tech, where we developed web, desktop,
-and mobile applications. Additionally.
-I am proficient in Adobe Premiere and Illustrator.
-```
-
-## **Skills**
-
-<a href=""><img align="left" width="110" src="./imgs/chibi-anime.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/good-menhera.gif" /></a>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,npm,ts,mongodb,ruby,ai,ps,electron,git,js,docker,c,cpp,arduino,java,vscode&perline=9" />
-  </a>
+  <img src="./imgs/banner.png" alt="Banner" width="100%"/>
 </p>
 
-## **About me**
+<h3 align="center">🚀 Full-Stack Developer | Angular & Nest Specialist | Tech Leader</h3>
 
-<a href=""><img align="left" width="110" src="https://cdn3.emoji.gg/emojis/8654_HirasawaYuiPeace.png"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/popcorn-drama.gif" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-Stack+Web+Developer;Open-Source+Enthusiast;Tech+Leader+%26+Mentor" alt="Typing Animation" />
+</p>
 
+---
+
+## **💼 Experience**
+<div align="center">
+  <img src="./imgs/ram.gif" width="120" align="left" />
+  <img src="./imgs/rem.gif" width="120" align="right" />
+  
 ```yaml
-I am a web application developer specializing in frontend development
-using Angular. I have experience in developing projects with Electron
-based on Angular. For backend development, I have utilized Ruby on
-Rails and Nest.js. Additionally, I am currently working at Leading Tech
-and studying computer science.
+- Role: Project Leader & Full-Stack Developer @ Leading Tech
+- Stack: Angular, NestJS, MongoDB, Ruby on Rails, Electron
+- Responsibilities:
+  ✓ Leading development teams
+  ✓ Architecture decisions
+  ✓ Full-stack development (Web, Desktop, Mobile)
+```
+</div>
+
+---
+
+## **🛠️ Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,typescript,mongodb,ruby,rails,prisma,docker&perline=9" alt="Tech Icons" />
+</p>
+
+### **Frontend & Mobile**
+```yaml
+- Angular (Expert) | RxJS | NgRx | Ionic
+- Electron (Desktop Apps)
+- HTML5, CSS3, Tailwind, SCSS
 ```
 
-<!-- ## **How did I start?**
-
-<a href=""><img align="left" width="100" src="./imgs/anime-meme.gif"></a>
-<a href="https://github.com/JohnTenno"><img align="right" width="115" src="./imgs/sip-kanna-sip.gif"></a>
-
+### **Backend & Databases**
 ```yaml
-I don't know how it happened, but I started coding,
+- Node.js | NestJS | Express
+- Ruby on Rails | Sinatra
+- MongoDB | PostgreSQL | Prisma
+```
 
-and I don't regret a thing!
-``` -->
+### **Tools & Design**
+```yaml
+- Git | Docker | AWS | Firebase
+- Adobe Premiere | Illustrator | Figma
+```
 
-## **Contact**
+---
 
-<a href="https://github.com/JohnTenno"><img align="right" width="100" src="./imgs/1159988e-75b6-446a-8486-92a8a336808c.webp" /></a>
-Contact me on Discord for a quick response: JohnTenno
+## **📌 About Me**
+<div align="center">
+  <img src="./imgs/chibi-anime.gif" width="110" align="left" />
+  <img src="./imgs/popcorn-drama.gif" width="110" align="right" />
+  
+```yaml
+- Passionate about clean code and UX design
+- Experience in leading tech projects
+- Currently studying Computer Science
+- Love anime, gaming, and open-source contributions
+```
+</div>
 
-[![](https://img.shields.io/github/followers/JohnTenno?label=Followers&style=social)](https://github.com/JohnTenno)
+---
+
+## **📬 Contact Me**
+<p align="center">
+  <a href="mailto:johntenno117@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-gandara-1191aa267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/583377862870958085">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
