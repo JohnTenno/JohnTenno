@@ -29,12 +29,15 @@
 
 ## **🛠️ Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,typescript,mongodb,ruby,rails,prisma,docker&perline=9" alt="Tech Icons" />
+<img src="https://media1.tenor.com/m/YD9BUUOjhzwAAAAd/kasane-teto-dance.gif" height="150"  align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,mongodb,ruby,rails,prisma,docker,unity,ps,ai&perline=6" alt="Tech Icons" />
+<img src="https://media1.tenor.com/m/Pf3NdLM_iLQAAAAd/hatsune-miku.gif" height="150" align="right">
 </p>
+<br>
 
-### **Frontend & Mobile**
+## **Frontend & Mobile**
 ```yaml
-- Angular (Expert) | RxJS | NgRx | Ionic
+- Angular | RxJS | NgRx | Ionic
 - Electron (Desktop Apps)
 - HTML5, CSS3, Tailwind, SCSS
 ```
