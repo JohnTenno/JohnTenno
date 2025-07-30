@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imgs/banner.png" alt="Banner" width="100%"/>
+  <img src="./imgs/portada.png" alt="Banner" width="100%"/>
 </p>
 
 <h3 align="center">🚀 Full-Stack Developer | Angular & Nest Specialist | Tech Leader</h3>
