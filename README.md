@@ -21,7 +21,7 @@
 
 ---
 
-## ** Tech Stack**
+## **Tech Stack**
 <p align="center">
 <img src="https://media1.tenor.com/m/YD9BUUOjhzwAAAAd/kasane-teto-dance.gif" height="150"  align="left">
   <img src="https://skillicons.dev/icons?i=angular,nestjs,ts,nodejs,mongodb,ruby,rails,prisma,docker,unity,ps,ai&perline=6" alt="Tech Icons" />
