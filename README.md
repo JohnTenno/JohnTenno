@@ -1,8 +1,13 @@
+<img src="./imgs/sip-kanna-sip.gif" width="100" align="left" />
+<img src="./imgs/good-menhera.gif" width="100" align="right" />
+
 <h3 align="center">Security Researcher | Firmware & Protocol RE | Full-Stack Engineer</h3>
 
 <p align="center">
   Electronic Engineering @ ITCh · Computer Science @ UACH · CECyTECH
 </p>
+
+<br clear="both"/>
 
 ---
 
@@ -13,8 +18,6 @@ I love breaking things just for fun and to understand how they work, then build 
 Got hired as a pentester after compromising a company's infrastructure in 20 minutes during a challenge. Now I do backend development and security there. My background spans electronics, embedded systems, wireless protocol reverse engineering, and full-stack web development.
 
 <div align="center">
-  <img src="./imgs/sip-kanna-sip.gif" width="100" align="left" />
-  <img src="./imgs/good-menhera.gif" width="100" align="right" />
 
 ```yaml
 Security:
