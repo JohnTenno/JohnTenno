@@ -4,7 +4,7 @@
 <h3 align="center">Security Researcher | Firmware & Protocol RE | Full-Stack Engineer</h3>
 
 <p align="center">
-  Electronic Engineering @ ITCh · Computer Science @ UACH · CECyTECH
+  Electronic Engineering @ ITCh · Computer Science Engineering @ UACH · CECyTECH
 </p>
 
 <br clear="both"/>
