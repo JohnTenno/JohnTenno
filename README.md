@@ -17,8 +17,6 @@ I love breaking things just for fun and to understand how they work, then build 
 
 Got hired as a pentester after compromising a company's infrastructure in 20 minutes during a challenge. Now I do backend development and security there. My background spans electronics, embedded systems, wireless protocol reverse engineering, and full-stack web development.
 
-<div align="center">
-
 ```yaml
 Security:
   - Penetration testing (web, infrastructure)
@@ -37,8 +35,6 @@ Software:
   - Angular, NestJS, MongoDB, Docker
   - Real-time systems & tracking platforms
 ```
-
-</div>
 
 ---
 
