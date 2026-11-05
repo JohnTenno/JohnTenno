@@ -15,15 +15,15 @@
 <text x='66' y='26' class='h' font-size='16' style='fill:#F6F7F5;letter-spacing:2px'>BACKGROUND</text>
 <rect x='28' y='64' width='210' height='38' fill='#E3E5E1'/>
 <text x='42' y='88' class='c' font-size='11' style='fill:#191C1D'>CURRENT</text>
-<text x='258' y='88' class='b' font-size='14'>Backend Developer &amp; Security @ Hito</text>
+<text x='258' y='88' class='b' font-size='14'>Backend Developer &amp; Security @ Social Data Ibero</text>
 <line x1='238' y1='102' x2='872' y2='102' stroke='#C5CAC6'/>
 <rect x='28' y='110' width='210' height='38' fill='#E3E5E1'/>
-<text x='42' y='134' class='c' font-size='11' style='fill:#191C1D'>ITCH / 8 SEMESTERS</text>
-<text x='258' y='134' class='b' font-size='14'>Electronic Engineering (circuits, RF, signals, embedded)</text>
+<text x='42' y='134' class='c' font-size='11' style='fill:#191C1D'>UACH / IN PROGRESS</text>
+<text x='258' y='134' class='b' font-size='14'>Computer Science, 7th semester</text>
 <line x1='238' y1='148' x2='872' y2='148' stroke='#C5CAC6'/>
 <rect x='28' y='156' width='210' height='38' fill='#E3E5E1'/>
-<text x='42' y='180' class='c' font-size='11' style='fill:#191C1D'>UACH / IN PROGRESS</text>
-<text x='258' y='180' class='b' font-size='14'>Computer Science, 7th semester</text>
+<text x='42' y='180' class='c' font-size='11' style='fill:#191C1D'>ITCH / 8 SEMESTERS</text>
+<text x='258' y='180' class='b' font-size='14'>Electronic Engineering (circuits, RF, signals, embedded)</text>
 <line x1='238' y1='194' x2='872' y2='194' stroke='#C5CAC6'/>
 <rect x='28' y='202' width='210' height='38' fill='#E3E5E1'/>
 <text x='42' y='226' class='c' font-size='11' style='fill:#191C1D'>CECYTECH</text>

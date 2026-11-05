@@ -14,23 +14,23 @@
 <text x='24' y='26' class='h' font-size='15' text-anchor='middle' style='fill:#191C1D'>01</text>
 <text x='66' y='26' class='h' font-size='16' style='fill:#F6F7F5;letter-spacing:2px'>WHO AM I</text>
 <text x='28' y='96' class='b' font-size='16'>I love breaking things just for fun and to understand how they work, then build them better.</text>
-<text x='28' y='126' class='s' font-size='14'>Got hired as a pentester after compromising a company's infrastructure in 20 minutes during a challenge.</text>
-<text x='28' y='148' class='s' font-size='14'>Now I do backend development and security there. My background spans electronics, embedded systems,</text>
-<text x='28' y='170' class='s' font-size='14'>wireless protocol reverse engineering, and full-stack web development.</text>
+<text x='28' y='126' class='s' font-size='15'>Got hired as a pentester after compromising a company's infrastructure in 20 minutes during an authorized</text>
+<text x='28' y='148' class='s' font-size='15'>pentest challenge. Now I do backend development and security there. My background spans electronics,</text>
+<text x='28' y='170' class='s' font-size='15'>embedded systems, wireless protocol reverse engineering, and full-stack web development.</text>
 <line x1='28' y1='194' x2='872' y2='194' stroke='#C5CAC6'/>
 <text x='28' y='224' class='c' font-size='11'>SEC / SECURITY</text>
-<rect x='28' y='247' width='6' height='6' fill='#F2D600'/><text x='44' y='256' class='b' font-size='14'>Penetration testing (web, infra)</text>
-<rect x='28' y='271' width='6' height='6' fill='#F2D600'/><text x='44' y='280' class='b' font-size='14'>Firmware analysis and disassembly</text>
-<rect x='28' y='295' width='6' height='6' fill='#F2D600'/><text x='44' y='304' class='b' font-size='14'>Wireless protocol RE</text>
-<rect x='28' y='319' width='6' height='6' fill='#F2D600'/><text x='44' y='328' class='b' font-size='14'>IoT attack classification</text>
+<rect x='28' y='247' width='6' height='6' fill='#F2D600'/><text x='44' y='256' class='b' font-size='15'>Penetration testing (web, infra)</text>
+<rect x='28' y='271' width='6' height='6' fill='#F2D600'/><text x='44' y='280' class='b' font-size='15'>Firmware analysis and disassembly</text>
+<rect x='28' y='295' width='6' height='6' fill='#F2D600'/><text x='44' y='304' class='b' font-size='15'>Wireless protocol RE</text>
+<rect x='28' y='319' width='6' height='6' fill='#F2D600'/><text x='44' y='328' class='b' font-size='15'>IoT attack classification</text>
 <text x='313' y='224' class='c' font-size='11'>HW / HARDWARE + FIRMWARE</text>
-<rect x='313' y='247' width='6' height='6' fill='#F2D600'/><text x='329' y='256' class='b' font-size='14'>nRF52840: BLE, ESB, TinyUSB</text>
-<rect x='313' y='271' width='6' height='6' fill='#F2D600'/><text x='329' y='280' class='b' font-size='14'>ESP32: sensors, UART, real-time</text>
-<rect x='313' y='295' width='6' height='6' fill='#F2D600'/><text x='329' y='304' class='b' font-size='14'>JTAG, UART, SPI, USB CDC</text>
-<rect x='313' y='319' width='6' height='6' fill='#F2D600'/><text x='329' y='328' class='b' font-size='14'>3D printing and prototyping</text>
+<rect x='313' y='247' width='6' height='6' fill='#F2D600'/><text x='329' y='256' class='b' font-size='15'>nRF52840: BLE, ESB, TinyUSB</text>
+<rect x='313' y='271' width='6' height='6' fill='#F2D600'/><text x='329' y='280' class='b' font-size='15'>ESP32: sensors, UART, real-time</text>
+<rect x='313' y='295' width='6' height='6' fill='#F2D600'/><text x='329' y='304' class='b' font-size='15'>JTAG, UART, SPI, USB CDC</text>
+<rect x='313' y='319' width='6' height='6' fill='#F2D600'/><text x='329' y='328' class='b' font-size='15'>3D printing and prototyping</text>
 <text x='598' y='224' class='c' font-size='11'>SW / SOFTWARE</text>
-<rect x='598' y='247' width='6' height='6' fill='#F2D600'/><text x='614' y='256' class='b' font-size='14'>Backend architecture</text>
-<rect x='598' y='271' width='6' height='6' fill='#F2D600'/><text x='614' y='280' class='b' font-size='14'>Angular, NestJS, MongoDB, Docker</text>
-<rect x='598' y='295' width='6' height='6' fill='#F2D600'/><text x='614' y='304' class='b' font-size='14'>Real-time tracking platforms</text>
-<rect x='598' y='319' width='6' height='6' fill='#F2D600'/><text x='614' y='328' class='b' font-size='14'>Process improvement</text>
+<rect x='598' y='247' width='6' height='6' fill='#F2D600'/><text x='614' y='256' class='b' font-size='15'>Backend architecture</text>
+<rect x='598' y='271' width='6' height='6' fill='#F2D600'/><text x='614' y='280' class='b' font-size='15'>Angular, NestJS, MongoDB, Docker</text>
+<rect x='598' y='295' width='6' height='6' fill='#F2D600'/><text x='614' y='304' class='b' font-size='15'>Real-time tracking platforms</text>
+<rect x='598' y='319' width='6' height='6' fill='#F2D600'/><text x='614' y='328' class='b' font-size='15'>Process improvement</text>
 </svg>
